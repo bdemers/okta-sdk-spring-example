@@ -18,7 +18,7 @@ To use this project:
    | Key | Description | |
    ------|----------------|-|
    | `okta.client.orgUrl` | Your Okta Url: `https://{yourOktaDomain}`, i.e. `https://dev-123456.okta.com` | [More Info](https://bit.ly/finding-okta-domain) |
-   | `okta.client.token` | An Okta API token, see [creating an API token](https://developer.okta.com/docs/api/getting_started/getting_a_token) for more info. | [https://bit.ly/get-okta-api-token]() |
+   | `okta.client.token` | An Okta API token | See [creating an API token](https://developer.okta.com/docs/api/getting_started/getting_a_token) for more info. |
    
    For example, one easy way to get started is to add these properties to the `src/main/resources/application.properties` file in this repo:
 
