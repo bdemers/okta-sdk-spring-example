@@ -34,3 +34,7 @@ To use this project:
    ```shell
    ./mvnw spring-boot:run
    ```
+
+## The Code
+
+The full example is located [`DemoApplication`](/src/main/java/com/example/demo/DemoApplication.java) with a few comments to help you get started.
