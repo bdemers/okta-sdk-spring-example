@@ -16,7 +16,7 @@ To use this project:
    Set the following to properties via any [Spring configuration technique](https://docs.spring.io/spring-boot/docs/1.5.6.RELEASE/reference/html/boot-features-external-config.html) 
    
    | Key | Description | |
-   ------|----------------
+   ------|----------------|-|
    | `okta.client.orgUrl` | Your Okta Url: `https://{yourOktaDomain}`, i.e. `https://dev-123456.okta.com` | [More Info](https://bit.ly/finding-okta-domain) |
    | `okta.client.token` | An Okta API token, see [creating an API token](https://developer.okta.com/docs/api/getting_started/getting_a_token) for more info. | [https://bit.ly/get-okta-api-token]() |
    
